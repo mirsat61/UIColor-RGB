@@ -1,3 +1,4 @@
+You can set colors in HEX
 
 ### Example Code
 
